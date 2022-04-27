@@ -1,12 +1,7 @@
 import sys
 
 say: str = input()
-if "Hello, my friend" in say:
-    print("good!")
-else:
-    print("not good")
-
-
+    
 def func_1():
     print("True1.0")
     if "Hello, my friend" in say:
