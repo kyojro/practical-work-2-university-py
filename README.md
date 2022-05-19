@@ -8,7 +8,7 @@ and then creates a file with a shutdown message. But create a separate function 
 which will return the result of the program. Each of the functions can be started only 
 if the number of the argument to run the script corresponds to the number of the function.
 
-pw2.2.py (variant 14 in task list)(global varint -3).
+pw2.2.py (variant 14 in task list)(global variant -3).
 ---
 A script that deletes all files in the startup directory except itself. But create 
 a separate function for each of them, which will return the result of the program.
